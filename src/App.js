@@ -1,10 +1,16 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import AddEmployee from "./components/AddEmployee";
+import EmployeeList from "./components/EmployeeList";
+import Filters from "./components/Filters";
+import "./styles.css";
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className="app">
+      <h1>Employees</h1>
+      <AddEmployee />
+      <EmployeeList />
+      <Filters />
     </div>
   );
 }
