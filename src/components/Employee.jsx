@@ -5,7 +5,7 @@ import { toggleEmployee } from "../redux/actions";
 
 const Employee = ({ employee, toggleEmployee }) => (
   <li className="employee-item" onClick={() => toggleEmployee(employee.id)}>
-    {employee && employee.completed ? "👌" : "👋"}{" "}
+    {employee && employee.completed}{" "}
     <span
       className={cx(
         "employee-item__text",

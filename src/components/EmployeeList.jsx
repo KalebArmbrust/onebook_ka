@@ -10,7 +10,7 @@ const EmployeeList = ({ employees }) => (
       ? employees.map((employee, index) => {
           return <Employee key={`employee-${employee.id}`} employee={employee} />;
         })
-      : "No new Employees"}
+      : "No Employees"}
   </ul>
 );
 
