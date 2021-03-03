@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/onebook_ka/static/css/main.b81ab062.chunk.css",
-    "main.js": "/onebook_ka/static/js/main.27428ccb.chunk.js",
-    "main.js.map": "/onebook_ka/static/js/main.27428ccb.chunk.js.map",
-    "runtime-main.js": "/onebook_ka/static/js/runtime-main.26158078.js",
-    "runtime-main.js.map": "/onebook_ka/static/js/runtime-main.26158078.js.map",
-    "static/js/2.9a95aa2e.chunk.js": "/onebook_ka/static/js/2.9a95aa2e.chunk.js",
-    "static/js/2.9a95aa2e.chunk.js.map": "/onebook_ka/static/js/2.9a95aa2e.chunk.js.map",
-    "index.html": "/onebook_ka/index.html",
-    "static/css/main.b81ab062.chunk.css.map": "/onebook_ka/static/css/main.b81ab062.chunk.css.map",
-    "static/js/2.9a95aa2e.chunk.js.LICENSE.txt": "/onebook_ka/static/js/2.9a95aa2e.chunk.js.LICENSE.txt"
+    "main.css": "/onebook_ka/public/index.html/static/css/main.b81ab062.chunk.css",
+    "main.js": "/onebook_ka/public/index.html/static/js/main.27428ccb.chunk.js",
+    "main.js.map": "/onebook_ka/public/index.html/static/js/main.27428ccb.chunk.js.map",
+    "runtime-main.js": "/onebook_ka/public/index.html/static/js/runtime-main.f9fbbe0f.js",
+    "runtime-main.js.map": "/onebook_ka/public/index.html/static/js/runtime-main.f9fbbe0f.js.map",
+    "static/js/2.9a95aa2e.chunk.js": "/onebook_ka/public/index.html/static/js/2.9a95aa2e.chunk.js",
+    "static/js/2.9a95aa2e.chunk.js.map": "/onebook_ka/public/index.html/static/js/2.9a95aa2e.chunk.js.map",
+    "index.html": "/onebook_ka/public/index.html/index.html",
+    "static/css/main.b81ab062.chunk.css.map": "/onebook_ka/public/index.html/static/css/main.b81ab062.chunk.css.map",
+    "static/js/2.9a95aa2e.chunk.js.LICENSE.txt": "/onebook_ka/public/index.html/static/js/2.9a95aa2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26158078.js",
+    "static/js/runtime-main.f9fbbe0f.js",
     "static/js/2.9a95aa2e.chunk.js",
     "static/css/main.b81ab062.chunk.css",
     "static/js/main.27428ccb.chunk.js"
